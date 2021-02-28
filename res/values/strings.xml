@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="sw_reit">Наиболее рейтинговые</string>
+    <string name="sw_popwu">Самые популярные</string>
+</resources>
